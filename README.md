@@ -26,7 +26,7 @@ Passionate about infrastructure, cloud computing, and Linux system administratio
 <br>
 
 ### 💻 Technologies and Languages
-[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,aws)](https://skillicons.dev)
 
 ### 🚀 Frameworks and Libraries
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,mysql)](https://skillicons.dev)

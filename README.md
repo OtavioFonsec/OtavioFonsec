@@ -3,7 +3,7 @@
 
 ###
 
-**IT Support Assistant at Jaguar Land Rover**
+**´IT Support Assistant at Jaguar Land Rover´**
 
 Passionate about infrastructure, cloud computing, and Linux system administration. Skilled in automating, monitoring, and securing high-availability environments using tools like AWS, Azure, Zabbix, and Bash scripting. Committed to performance, stability, and best practices in system operations.
 ###
